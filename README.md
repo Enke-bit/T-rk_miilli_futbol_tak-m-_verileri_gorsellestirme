@@ -42,4 +42,6 @@ Grafikte aşağıdaki unsurlar bulunmaktadır:
 - Teknik Direktör: Teknik direktör, saha dışında belirgin bir şekilde gösterilmiştir.
 ## Yazar
 Bu proje, [İbrahim Püsküllü] tarafından hazırlanmıştır.
+## Lisans
+Bu proje Licanse dosyası ile lisans ile lisanslanmıştır.
 
